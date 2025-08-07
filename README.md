@@ -9,26 +9,25 @@
 </center>
 I'm a computer engineering student at Islamic Azad University. I have extensive experience in software development, embedded Linux customization, and system-level programming. Over the years, I've contributed to a range of projects—from hardware prototyping at Art Electronics to building an educational platform at Vikimed Co., and developing embedded solutions at MTA Co. I've led initiatives like the codeFEBE talkshow and CurlyBracket to support tech communities, and worked on additive manufacturing tools at Nditive 3D as a freelance developer. As CEO of IKAT AI, I guided innovation in industrial automation. My technical skills include Python, C, C++, Rust, Flutter, Django, Bash scripting, the Qt framework, and multimedia development with GStreamer and Libav. I’m fluent in Persian and English, currently learning French and German.
 
-<center>
-  <h2>💻 Skills</h2>
-</center>
-Programming Languages: Python, C, C++
+## 💻 Skills
 
-Linux customization for embedded boards
+**Programming Languages**  
+`Python` • `C` • `C++`
 
-Version Control: Git
+**Linux Customization**  
+🔧 Embedded Linux development & system customization
 
-Group Management and Collaboration
+**Version Control**  
+🔁 Git
 
-Language Proficiency
+**Collaboration & Teamwork**  
+👥 Group management and collaborative development
 
-Persian <span style="transform: rotate(180deg) perspective(0); display: inline-block;">🇭🇺</span>: Fluent
-
-English 🇬🇧: Fluent
-
-German 🇩🇪: Dedicated to mastering
-
-French 🇫🇷: Dedicated to mastering
+**Languages**  
+- 🇮🇷 **Persian**: Fluent  
+- 🇬🇧 **English**: Fluent  
+- 🇩🇪 **German**: Learning  
+- 🇫🇷 **French**: Learning
 
 <center>
   <h2>🏆 Experience</h2>
