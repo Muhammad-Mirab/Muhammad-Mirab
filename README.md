@@ -7,20 +7,27 @@
 <center>
   <h2>🚀 About Me</h2>
 </center>
-an Embedded Software Engineer based in Iran. My programming journey began at the age of 9 when I delved into web development. Since then, I have explored various technologies and programming languages, shaping my career path and fueling my passion for software development.
-
-I have a strong foundation in Python and Linux, which has allowed me to work on diverse projects and tackle complex challenges. I enjoy the versatility and power that these technologies offer, enabling me to create efficient and scalable solutions.
+I'm a computer engineering student at Islamic Azad University. I have extensive experience in software development, embedded Linux customization, and system-level programming. Over the years, I've contributed to a range of projects—from hardware prototyping at Art Electronics to building an educational platform at Vikimed Co., and developing embedded solutions at MTA Co. I've led initiatives like the codeFEBE talkshow and CurlyBracket to support tech communities, and worked on additive manufacturing tools at Nditive 3D as a freelance developer. As CEO of IKAT AI, I guided innovation in industrial automation. My technical skills include Python, C, C++, Rust, Flutter, Django, Bash scripting, the Qt framework, and multimedia development with GStreamer and Libav. I’m fluent in Persian and English, currently learning French and German.
 
 <center>
   <h2>💻 Skills</h2>
 </center>
 Programming Languages: Python, C, C++
+
 Linux customization for embedded boards
+
 Version Control: Git
+
 Group Management and Collaboration
+
 Language Proficiency
+
 Persian <span style="transform: rotate(180deg) perspective(0); display: inline-block;">🇭🇺</span>: Fluent
+
 English 🇬🇧: Fluent
+
+German 🇩🇪: Dedicated to mastering
+
 French 🇫🇷: Dedicated to mastering
 
 <center>
